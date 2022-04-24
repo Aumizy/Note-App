@@ -1,0 +1,8 @@
+Current Mission
+ - Finish styling the manage modal for the sidebar
+
+Note to self:
+ - change default username to null (in store.js) when done with development
+
+ CURRENT PROBLEM:
+  fix managemodal z-index problem with css
